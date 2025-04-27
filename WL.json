@@ -1,11 +1,12 @@
 {
     "Whitelist": {
-        "14016889": ["SVJ", "M2","ZondaSRoadster"],
+        "14016889": ["SVJ", "M2", "ZondaSRoadster", "X5M"],
         "987654321": ["CarName3"]
     },
     "CarNameToAssetId": {
         "SVJ": 110487519639585,
         "M2": 123027766511815,
-        "ZondaSRoadster": 81823868567894
+        "ZondaSRoadster": 81823868567894,
+        "X5M": 116322080117023
     }
 }
