@@ -2,12 +2,15 @@
     "Whitelist": {
         "14016889": ["ShayX5M", "ShaySinger", "ShaySVJ", "ShayM5"],
         "1316625369": ["asuchg80"]
+        "4656300063": ["MoonSlot1", "MoonSlot2"]
     },
     "CarNameToAssetId": {
         "ShayX5M": 109211614072538,
         "ShaySinger": 88404087540819,
         "asuchg80": 117938100761368,
         "ShaySVJ": 103633640272149,
-        "ShayM5": 81912692305274
+        "ShayM5": 81912692305274,
+        "MoonSlot1": 99975621011712,
+        "MoonSlot2": 94758035381876
     }
 }
