@@ -1,13 +1,15 @@
 {
     "Whitelist": {
-        "14016889": ["ShayX5M", "ShaySinger", "ShayLaFerrari", "ShayM5"],
-        "1316625369": ["asuchg80"]
+        "14016889": ["ShayX5M", "ShaySinger", "ShayLaFerrari", "ShayM5", "Pagani"],
+        "1316625369": ["asuchg80"],
+        "1518580038": ["Pagani"]
     },
     "CarNameToAssetId": {
         "ShayX5M": 109211614072538,
         "ShaySinger": 88404087540819,
         "asuchg80": 117938100761368,
         "ShayLaFerrari": 103633640272149,
-        "ShayM5": 81912692305274
+        "ShayM5": 81912692305274,
+        "Pagani": 76106117369555
     }
 }
