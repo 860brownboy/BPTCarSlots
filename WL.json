@@ -17,13 +17,14 @@
         "760416050": "himerence",
         "18164083": "XARiigs"
     },
-    "StaffCars": [],
+    "StaffCars": ["AMG ONE"],
     "CarNameToAssetId": {
         "ShayX5M": 109211614072538,
         "ShaySinger": 88404087540819,
         "asuchg80": 117938100761368,
         "ShayLaFerrari": 103633640272149,
         "ShayM5": 81912692305274,
-        "Pagani": 76106117369555
+        "Pagani": 76106117369555,
+        "AMG ONE": 85730685958721
     }
 }
