@@ -5,6 +5,7 @@
         "760416050": ["Pagani"]
     },
     "StaffUserIds": {
+        "14016889": "guyanesemalibunta",
         "9356198642": "Bhshshxns",
         "1518580038": "omgchanc3",
         "3740403126": "svnisterrr",
@@ -17,7 +18,7 @@
         "760416050": "himerence",
         "18164083": "XARiigs"
     },
-    "StaffCars": ["AMG ONE"],
+    "StaffCars": ["AMGOne"],
     "CarNameToAssetId": {
         "ShayX5M": 109211614072538,
         "ShaySinger": 88404087540819,
@@ -25,6 +26,6 @@
         "ShayLaFerrari": 103633640272149,
         "ShayM5": 81912692305274,
         "Pagani": 76106117369555,
-        "AMG ONE": 85730685958721
+        "AMGOne": 85730685958721
     }
 }
