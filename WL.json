@@ -19,7 +19,7 @@
         "760416050": "himerence",
         "18164083": "XARiigs"
     },
-    "StaffCars": ["AMGOne"],
+    "StaffCars": ["GT3X"],
     "CarNameToAssetId": {
         "ShayX5M": 109211614072538,
         "ShaySinger": 88404087540819,
@@ -27,6 +27,6 @@
         "ShayLaFerrari": 103633640272149,
         "ShayM5": 81912692305274,
         "Pagani": 76106117369555,
-        "AMGOne": 85730685958721
+        "GT3X": 85730685958721
     }
 }
